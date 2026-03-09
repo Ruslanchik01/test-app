@@ -35,8 +35,8 @@ Clone the repository and install dependencies (there are currently no external r
 
 ```bash
 git clone <repo-url>
-cd test-app            # repo root
-cd test-app            # app directory
+cd <cloned-repo>
+cd test-app
 npm install
 ```
 
